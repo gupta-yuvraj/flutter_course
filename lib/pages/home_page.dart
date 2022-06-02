@@ -9,7 +9,6 @@ class HomePage extends StatelessWidget {
     return Scaffold(
       appBar: AppBar(
         title: Text("My Flutter App $version"),
-        backgroundColor: Color.fromARGB(255, 13, 13, 14),
       ),
       body: Center(
         child: Container(
